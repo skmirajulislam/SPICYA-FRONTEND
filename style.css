@@ -117,7 +117,7 @@ section{
     gap: 1.5rem;
     min-height: 100vh;
     align-items: center;
-    background: url("../img/food.jpg") no-repeat;
+    background: url("https://raw.githubusercontent.com/skmirajulislam/SPICYA-FRONTEND/refs/heads/master/img/food.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
